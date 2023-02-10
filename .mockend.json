@@ -3,11 +3,13 @@
         "data": {
             "hasMany": "User"
         }
-
     },
     "User": {
         "_": { 
             "items": 18
+        },
+        "friend": {
+            "belongsTo": "Friend"
         },
         "name": {
             "string": [
