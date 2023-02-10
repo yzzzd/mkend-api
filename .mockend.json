@@ -1,5 +1,8 @@
 {
     "Friend": {
+        "status": {
+            "int": 100
+        },
         "data": {
             "hasMany": "User"
         }
@@ -7,9 +10,6 @@
     "User": {
         "_": { 
             "items": 18
-        },
-        "friend": {
-            "belongsTo": "Friend"
         },
         "name": {
             "string": [
@@ -55,6 +55,9 @@
                 "SMK N 1 Jatiroto",
                 "SMK Wikrama 1 Jepara"
             ]
+        },
+        "friend": {
+            "belongsTo": "Friend"
         }
     }
 }
