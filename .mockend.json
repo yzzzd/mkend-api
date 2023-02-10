@@ -1,5 +1,11 @@
 {
     "Friend": {
+        "data": {
+            "hasMany": "User"
+        }
+
+    },
+    "User": {
         "_": { 
             "items": 18
         },
