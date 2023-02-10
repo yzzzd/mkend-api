@@ -1,7 +1,9 @@
 {
     "Friend": {
-        "status": {
-            "int": 100
+        "message": {
+            "string": [
+                "success"
+            ]
         },
         "data": {
             "hasMany": "User"
