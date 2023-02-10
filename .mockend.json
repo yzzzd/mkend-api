@@ -1,27 +1,29 @@
 {
     "Friend": {
         "_": { 
-            "items": 18,
-            "data": [
-                { "name": "Xanana Hakim" },
-                { "name": "Kawaya Prakasa" },
-                { "name": "Zulaikha Mulyani" },
-                { "name": "Ina Mandasari" },
-                { "name": "Harto Marpaung" },
-                { "name": "Widya Hastuti" },
-                { "name": "Upik Hakim" },
-                { "name": "Danuja Napitupulu" },
-                { "name": "Gilda Mardhiyah" },
-                { "name": "Ajimat Januar" },
-                { "name": "Nilam Pratiwi" },
-                { "name": "Yuliana Uyainah" },
-                { "name": "Soleh Gunarto" },
-                { "name": "Cakrabuana Widodo" },
-                { "name": "Vanesa Hariyah" },
-                { "name": "Icha Pratiwi" },
-                { "name": "Septi Hartati" },
-                { "name": "Luwar Saptono" }
-        ]
+            "items": 18
+        },
+        "name": {
+            "string": [
+                "Xanana Hakim",
+                "Kawaya Prakasa",
+                "Zulaikha Mulyani",
+                "Ina Mandasari",
+                "Harto Marpaung",
+                "Widya Hastuti",
+                "Upik Hakim",
+                "Danuja Napitupulu",
+                "Gilda Mardhiyah",
+                "Ajimat Januar",
+                "Nilam Pratiwi",
+                "Yuliana Uyainah",
+                "Soleh Gunarto",
+                "Cakrabuana Widodo",
+                "Vanesa Hariyah",
+                "Icha Pratiwi",
+                "Septi Hartati",
+                "Luwar Saptono"
+            ]
         },
         "photo": {
             "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
